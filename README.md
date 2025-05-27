@@ -9,6 +9,15 @@
 ![image alt](https://github.com/abhishekboken12/-Mobius-strip/blob/f6a0344031b5de0362692b6556793dcbbad5298c/Mo%CC%88bius_Strip.jpg)
 
 **Code Structure:** 
+- `class MobiusStrip:`  
+  - `__init__`: Initializes radius, width, and mesh resolution  
+  - `generate_3Delemnts`: Computes 3D coordinates for the strip surface  
+  - `surface_area`: Numerically estimates the surface area  
+  - `edge_length`: Calculates the length of the Möbius edge  
+  - `plot`: 3D visualization using matplotlib  
+
+- `User Input`: Prompts for `radius` and `width`  
+- `Execution`: Instantiates `MobiusStrip`, prints area and edge length, and shows 3D plot
 
 
 **Surface Area Approximation:**  
