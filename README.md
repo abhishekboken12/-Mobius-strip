@@ -6,9 +6,7 @@
 ## Deliverables
 
 ### 3D Visualization
-
----
-
+![image alt](https://github.com/abhishekboken12/-Mobius-strip/blob/f6a0344031b5de0362692b6556793dcbbad5298c/Mo%CC%88bius_Strip.jpg)
 
 **Code Structure:**  
 The project is organized around a `MobiusStrip` class that encapsulates all core functionalities: generating 3D parametric coordinates, calculating analytical partial derivatives, numerically approximating surface area via vector calculus, computing the edge length, and plotting the strip. This modular design promotes clarity and easy maintenance.
