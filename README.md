@@ -38,12 +38,5 @@
 - Achieving a smooth, clear 3D visualization of the twisted Möbius geometry using Matplotlib’s plotting tools.
 ---
 
-### Assignment Focus Areas
-- Parametric 3D modeling of complex surfaces  
-- Numerical integration and geometric computation  
-- Visualization of non-orientable surfaces  
-- Writing clear, maintainable, and modular code
-
----
 
 
