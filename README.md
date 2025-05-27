@@ -8,6 +8,16 @@
 ### 3D Visualization
 ![image alt](https://github.com/abhishekboken12/-Mobius-strip/blob/f6a0344031b5de0362692b6556793dcbbad5298c/Mo%CC%88bius_Strip.jpg)
 
+## 🧠 Features
+
+- Parametric generation of a Möbius Strip
+- 3D visualization using `matplotlib`
+- Numerical estimation of:
+  - Surface Area
+  - Edge Length
+
+---
+
 **Code Structure:** 
 - `class MobiusStrip:`  
   - `__init__`: Initializes radius, width, and mesh resolution  
@@ -17,10 +27,7 @@
   - `plot`: 3D visualization using matplotlib  
 
 - `User Input`: Prompts for `radius` and `width`  
-- `Execution`: Instantiates `MobiusStrip`, prints area and edge length, and shows 3D plot
-
-
-**Surface Area Approximation:**  
+- `Execution`: Instantiates `MobiusStrip`, prints area and edge length, and shows 3D plot 
 
 
 **Challenges Faced:**  
@@ -29,11 +36,9 @@
 - Deriving and correctly implementing analytical expressions for partial derivatives to ensure accurate surface element calculations.  
 - Balancing mesh resolution for numerical precision without excessive computation time.  
 - Achieving a smooth, clear 3D visualization of the twisted Möbius geometry using Matplotlib’s plotting tools.
-
 ---
 
 ### Assignment Focus Areas
-
 - Parametric 3D modeling of complex surfaces  
 - Numerical integration and geometric computation  
 - Visualization of non-orientable surfaces  
