@@ -46,5 +46,4 @@
 
 ---
 
-Feel free to explore, modify, and extend this foundation to push your geometric modeling skills further!
 
